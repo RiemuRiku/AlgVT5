@@ -3,4 +3,4 @@ Monte Carlolla lasketaan piin likiarvo. http://users.jyu.fi/~mannikko/algoritmit
 
 Valmis versio : http://www.elisanet.fi/riemuriku/Alg2/VT5/pohja
 
-Joskin tässä tehtävässä syyllistytään törkeään .innerHTML:ään ja HTML:n sisällä scriptaukseen :D
+Joskin tässä tehtävässä syyllistytään törkeään .innerHTML:n käyttöön :D
